@@ -25,7 +25,7 @@ st.markdown("""
 
     /* Title box */
     .title-box {
-        background: #A9A9A9;
+        background: #000000;
         padding: 28px;
         border-radius: 12px;
         text-align: center;
@@ -35,7 +35,7 @@ st.markdown("""
 
     /* Title text color inside white box */
     .title-box h1, .title-box p {
-        color: #000000;
+        color: #F0FFFF;
     }
     
     /* Custom red button */
