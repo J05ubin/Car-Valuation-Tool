@@ -1,6 +1,9 @@
 # 🚗 Car Valuation Tool (Used Car Price Prediction)
 A machine learning-based web application that predicts the selling price of used cars based on various features such as brand, mileage, engine capacity, and more.
 
+🚀 Live Demo: https://car-valuation-tool-jm.streamlit.app  
+📌 Try it here and get instant car price predictions
+
 ## 📌 Project Overview
 The used car market lacks a standardized pricing system, making it difficult for buyers and sellers to determine fair vehicle prices.
 This project solves the problem using a data-driven approach by building a machine learning model that predicts car prices based on historical data and key features.
