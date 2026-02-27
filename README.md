@@ -62,7 +62,9 @@ The system provides:
 - Reason:
   - Handles non-linear relationships  
   - Works well with mixed data types  
-  - Reduces overfitting  
+  - Reduces overfitting
+    
+The trained model is generated using `train_model.py` and saved as `model.pkl` for use in the application.
 
 ### 🔧 Data Processing
 - Removed unnecessary columns  
@@ -103,4 +105,4 @@ The project includes a Streamlit-based web application.
 - Button: Check Value  
 - Output: Predicted price in ₹ (Lakh / Crore format)  
 
-The UI and prediction flow are implemented in `app.py`. :contentReference[oaicite:1]{index=1}  
+The UI and prediction flow are implemented in `app.py`.   
