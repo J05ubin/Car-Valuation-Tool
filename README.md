@@ -4,6 +4,22 @@ A machine learning-based web application that predicts the selling price of used
 🚀 Live Demo: https://car-valuation-tool-jm.streamlit.app  
 📌 Try it here and get instant car price predictions
 
+## 📸 Application Preview
+### 🔹 UI of the App
+<p align="center">
+  <img src="screenshots/ui.png" width="800"/>
+</p>
+
+### 🔹 Input Example
+<p align="center">
+  <img src="screenshots/input.png" width="800"/>
+</p>
+
+### 🔹 Prediction Output
+<p align="center">
+  <img src="screenshots/output.png" width="800"/>
+</p>
+
 ## 📌 Project Overview
 The used car market lacks a standardized pricing system, making it difficult for buyers and sellers to determine fair vehicle prices.
 This project solves the problem using a data-driven approach by building a machine learning model that predicts car prices based on historical data and key features.
