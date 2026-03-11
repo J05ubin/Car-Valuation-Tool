@@ -106,3 +106,4 @@ The project includes a Streamlit-based web application.
 - Output: Predicted price in ₹ (Lakh / Crore format)  
 
 The UI and prediction flow are implemented in `app.py`.   
+
